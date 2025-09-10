@@ -1,10 +1,7 @@
-Ciudad,Semana,Promedio_C
-Quito,1,15.43
-Quito,2,15.29
-Quito,3,14.71
-Guayaquil,1,28.71
-Guayaquil,2,29.86
-Guayaquil,3,28.57
-Cuenca,1,14.86
-Cuenca,2,16.43
-Cuenca,3,14.14
+Ciudad,Semana,Promedio
+Ciudad 1,Semana 1,83.42857142857143
+Ciudad 1,Semana 2,84.0
+Ciudad 2,Semana 1,70.14285714285714
+Ciudad 2,Semana 2,71.57142857142857
+Ciudad 3,Semana 1,57.42857142857143
+Ciudad 3,Semana 2,58.714285714285715
